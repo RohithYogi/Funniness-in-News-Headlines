@@ -1,0 +1,9 @@
+bak.zip
+.ipynb_checkpoints/
+__pycache__/
+data/
+venv/
+.idea/
+runs/
+checkpoints/
+*.ipynb
